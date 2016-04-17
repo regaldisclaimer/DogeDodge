@@ -11,4 +11,4 @@ A Unity arcade game with:
 - User statistics
 
 
-All Rights Reserved
+Copyright (c) All Rights Reserved
