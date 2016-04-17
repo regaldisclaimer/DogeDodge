@@ -1,1 +1,3 @@
 # DogeDodge
+
+All Rights Reserved
